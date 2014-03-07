@@ -1,4 +1,6 @@
 Author: Paul Rodriguez
+Labs Started: 1/12/2014
+Last Date Updated: 3/6/2014
 
 -these are lab assginments for the heterogeneous parallel programming course
 at coursera.org, offered by the university of illinois-urbana champaign.
